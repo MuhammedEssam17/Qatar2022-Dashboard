@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29706417/README.md)
 # 🏆 FIFA World Cup Qatar 2022 Analytics Dashboard
 
 ## 📌 Project Overview
